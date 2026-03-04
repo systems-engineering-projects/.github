@@ -12,12 +12,12 @@ This organization contains sample systems and infrastructure projects demonstrat
 - [News Sentiment Analysis](https://github.com/systems-engineering-projects/news-sentiment-analyzer)
 
 
-## Infrastructure, Deployment & Production Tooling
+## Infrastructure & Reliability Engineering
 
 - [Automation Preflight Validation System](https://github.com/systems-engineering-projects/automation-preflight-validation-system)
 - [Automation Failure Simulator](https://github.com/systems-engineering-projects/automation-failure-simulator)
+- [Monitoring Service in Go](https://github.com/systems-engineering-projects/go-monitor-service)
 - [Infrastructure Automation with Ansible](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible)
-- [Monitoring service in Go](https://github.com/systems-engineering-projects/go-monitor-service)
 - [Kubernetes + Docker deployment demo](https://github.com/systems-engineering-projects/docker-kubernetes-demo)
 
 
