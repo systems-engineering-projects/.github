@@ -1,6 +1,6 @@
 # Systems Engineering Projects
 
-Systems engineering projects focused on AI services, backend infrastructure, automation reliability, and deployment tooling.
+Systems engineering projects focused on AI services, backend infrastructure, automation, reliability, and deployment tooling.
 
 This organization contains sample systems and infrastructure projects demonstrating practical engineering patterns for building, deploying, and operating modern backend services and AI-enabled systems.
 
@@ -12,16 +12,13 @@ This organization contains sample systems and infrastructure projects demonstrat
 - [News Sentiment Analysis](https://github.com/systems-engineering-projects/news-sentiment-analyzer)
 
 
-## Infrastructure & DevOps Tooling
+## Infrastructure, Deployment & Production Tooling
 
-- Automation Preflight Validation System
-- Failure Simulation Framework
-
-## Deployment & Production Systems
-
-- Kubernetes + Docker deployment demo
-- Infrastructure automation with Ansible
-- Monitoring service in Go
+- [Automation Preflight Validation System](https://github.com/systems-engineering-projects/automation-preflight-validation-system)
+- [Automation Failure Simulator](https://github.com/systems-engineering-projects/automation-failure-simulator)
+- [Infrastructure Automation with Ansible](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible/blob/main/README.md)
+- [Monitoring service in Go](https://github.com/systems-engineering-projects/go-monitor-service)
+- [Kubernetes + Docker deployment demo](https://github.com/systems-engineering-projects/docker-kubernetes-demo)
 
 
 ---
