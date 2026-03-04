@@ -16,7 +16,7 @@ This organization contains sample systems and infrastructure projects demonstrat
 
 - [Automation Preflight Validation System](https://github.com/systems-engineering-projects/automation-preflight-validation-system)
 - [Automation Failure Simulator](https://github.com/systems-engineering-projects/automation-failure-simulator)
-- [Infrastructure Automation with Ansible](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible/blob/main/README.md)
+- [Infrastructure Automation with Ansible](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible)
 - [Monitoring service in Go](https://github.com/systems-engineering-projects/go-monitor-service)
 - [Kubernetes + Docker deployment demo](https://github.com/systems-engineering-projects/docker-kubernetes-demo)
 
