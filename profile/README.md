@@ -9,6 +9,7 @@ This organization contains sample systems and infrastructure projects demonstrat
 ## AI Systems & Infrastructure Projects
 
 - [RAG Document Analysis Backend](https://github.com/systems-engineering-projects/rag-document-analysis-backend)
+- [Autonomous Research & Drafting Agent (LangGraph)](https://github.com/systems-engineering-projects/research-drafting-agent)
 - [News Sentiment Analysis](https://github.com/systems-engineering-projects/news-sentiment-analyzer)
 
 
