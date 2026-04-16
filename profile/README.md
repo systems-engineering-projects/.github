@@ -21,7 +21,8 @@ This organization contains sample systems and infrastructure projects demonstrat
 - [Infrastructure Automation with Ansible](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible)
 - [Kubernetes + Docker deployment demo](https://github.com/systems-engineering-projects/docker-kubernetes-demo)
 
-
+## Backend API Engineering (FastAPI + Data Systems)
+- [NYC Taxi Zones API (PostGIS + FastAPI)](https://github.com/systems-engineering-projects/nyc-zones-postgis-api)
 ---
 
 ## Purpose
