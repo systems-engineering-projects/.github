@@ -4,36 +4,34 @@ Systems engineering projects focused on AI-powered applications, backend service
 
 ## Projects
 
-| Project                                | Focus                                                                                 | Stack                                            |
-| -------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Ledgerly                               | AI-assisted bookkeeping, transaction management, and document processing workflows    | FastAPI, PostgreSQL, pgvector, LangGraph, Ollama |
-| RAG Document Analysis Backend          | Retrieval-augmented document search, semantic retrieval, and citation-based responses | FastAPI, PostgreSQL, pgvector, OpenAI            |
-| Research Drafting Agent                | Multi-step research and drafting workflows with tool orchestration                    | Python, LangGraph, LLM APIs                      |
-| News Sentiment Analyzer                | News ingestion, sentiment analysis, monitoring, and deployment patterns               | FastAPI, MongoDB, Prometheus, Grafana            |
-| Automation Preflight Validation System | Environment validation and safety checks before automation execution                  | Python                                           |
-| Automation Failure Simulator           | Reliability testing, retries, backoff strategies, and failure recovery                | Python                                           |
-| Monitoring Service in Go               | Metrics collection and observability service for distributed systems                  | Go, Prometheus                                   |
-| Infrastructure Automation with Ansible | Infrastructure-as-Code and configuration management examples                          | Ansible                                          |
-| Kubernetes + Docker Deployment Demo    | Containerization, orchestration, scaling, and deployment workflows                    | Docker, Kubernetes                               |
-| NYC Taxi Zones API                     | Geospatial API demonstrating spatial queries and backend architecture                 | FastAPI, PostGIS, PostgreSQL                     |
+| Project | Focus | Stack |
+|----------|-------|-------|
+| [**Ledgerly**](https://github.com/systems-engineering-projects/ledgerly) | AI-assisted bookkeeping and document processing platform | FastAPI, PostgreSQL, pgvector, LangGraph, Ollama |
+| [**RAG Document Analysis**](https://github.com/systems-engineering-projects/rag-document-analysis-backend) | Semantic document search with grounded citations | FastAPI, PostgreSQL, pgvector |
+| [**Research Drafting Agent**](https://github.com/systems-engineering-projects/research-drafting-agent) | Multi-step AI research and drafting workflows | Python, LangGraph |
+| [**News Sentiment Analyzer**](https://github.com/systems-engineering-projects/news-sentiment-analyzer) | NLP pipeline with monitoring and deployment | FastAPI, MongoDB, Prometheus, Grafana |
+| [**Automation Preflight Validation**](https://github.com/systems-engineering-projects/automation-preflight-validation-system) | Validate environments before automation runs | Python |
+| [**Automation Failure Simulator**](https://github.com/systems-engineering-projects/automation-failure-simulator) | Retry, backoff, and reliability testing | Python |
+| [**Go Monitoring Service**](https://github.com/systems-engineering-projects/go-monitor-service) | Metrics collection and observability | Go, Prometheus |
+| [**Infrastructure Automation**](https://github.com/systems-engineering-projects/infrastructure-automation-with-ansible) | Infrastructure as Code with Ansible | Ansible |
+| [**Docker & Kubernetes Demo**](https://github.com/systems-engineering-projects/docker-kubernetes-demo) | Containerization and orchestration | Docker, Kubernetes |
+| [**NYC Taxi Zones API**](https://github.com/systems-engineering-projects/nyc-zones-postgis-api) | Geospatial REST API | FastAPI, PostGIS |
 
 ## Topics Covered
 
-* AI service deployment and retrieval pipelines
-* Agentic workflows and orchestration
-* Retrieval-Augmented Generation (RAG)
-* Backend API architecture
-* Data engineering and storage systems
-* Infrastructure automation
-* Observability and monitoring
-* Reliability engineering and failure testing
-* Containerization and orchestration
-* Cloud deployment practices
-* Geospatial data systems
-* Production operations and system design
+- AI service deployment and retrieval pipelines
+- Agentic workflows and orchestration
+- Retrieval-Augmented Generation (RAG)
+- Backend API architecture
+- Data engineering and storage systems
+- Infrastructure automation
+- Observability and monitoring
+- Reliability engineering and failure testing
+- Containerization and orchestration
+- Cloud deployment practices
+- Geospatial data systems
+- Production operations and system design
 
 ## Getting Started
 
-Each repository contains its own README with architecture overviews, setup instructions, implementation details, and deployment notes. Repositories are intentionally scoped to highlight specific engineering concepts while remaining practical examples of real-world system design and operational practices.
-
-Explore the projects individually to see different approaches to AI integration, backend engineering, automation, reliability, and infrastructure management.
+Each repository contains its own README with architecture diagrams, implementation details, setup instructions, and deployment notes. Explore the projects individually to see different approaches to AI integration, backend engineering, automation, reliability, and infrastructure management.
