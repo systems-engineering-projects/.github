@@ -10,8 +10,7 @@ Systems engineering projects focused on AI-powered applications, backend service
 | [**RAG Document Analysis**](https://github.com/systems-engineering-projects/rag-document-analysis-backend) | Semantic document search with grounded citations | FastAPI, PostgreSQL, pgvector |
 | [**Research Drafting Agent**](https://github.com/systems-engineering-projects/research-drafting-agent) | Multi-step AI research and drafting workflows | Python, LangGraph |
 | [**News Sentiment Analyzer**](https://github.com/systems-engineering-projects/news-sentiment-analyzer) | NLP pipeline with monitoring and deployment | FastAPI, MongoDB, Prometheus, Grafana |
-| [**Phonemenal**](https://github.com/systems-engineering-projects/phonemenal)
-| Phonetic word-hiding search with heuristic pun ranking | FastAPI, Pydantic, CMUdict, wordfreq |
+| [**Phonemenal**](https://github.com/systems-engineering-projects/phonemenal) | Phonetic word-hiding search with heuristic pun ranking | FastAPI, Pydantic, CMUdict, wordfreq |
 | [**Automation Preflight Validation**](https://github.com/systems-engineering-projects/automation-preflight-validation-system) | Validate environments before automation runs | Python |
 | [**Automation Failure Simulator**](https://github.com/systems-engineering-projects/automation-failure-simulator) | Retry, backoff, and reliability testing | Python |
 | [**Go Monitoring Service**](https://github.com/systems-engineering-projects/go-monitor-service) | Metrics collection and observability | Go, Prometheus |
