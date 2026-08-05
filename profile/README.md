@@ -6,8 +6,8 @@ Systems engineering projects focused on AI-powered applications, backend service
 
 | Project | Focus | Stack |
 |----------|-------|-------|
-| [**Ledgerly**](https://github.com/systems-engineering-projects/ledgerly) | AI-assisted bookkeeping and document processing platform | FastAPI, PostgreSQL, pgvector, LangGraph, Ollama |
 | [**RAG Document Analysis**](https://github.com/systems-engineering-projects/rag-document-analysis-backend) | Semantic document search with grounded citations | FastAPI, PostgreSQL, pgvector |
+| [**Ledgerly**](https://github.com/systems-engineering-projects/ledgerly) | AI-assisted bookkeeping and document processing platform | FastAPI, PostgreSQL, pgvector, LangGraph, Ollama |
 | [**Research Drafting Agent**](https://github.com/systems-engineering-projects/research-drafting-agent) | Multi-step AI research and drafting workflows | Python, LangGraph |
 | [**News Sentiment Analyzer**](https://github.com/systems-engineering-projects/news-sentiment-analyzer) | NLP pipeline with monitoring and deployment | FastAPI, MongoDB, Prometheus, Grafana |
 | [**Phonemenal**](https://github.com/systems-engineering-projects/phonemenal) | Phonetic word-hiding search with heuristic pun ranking | FastAPI, Pydantic, CMUdict, wordfreq |
